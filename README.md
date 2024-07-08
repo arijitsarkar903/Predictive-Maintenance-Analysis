@@ -7,20 +7,20 @@ Dataset link: https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenan
 This project aims to enhance the understanding of factors leading to machine failures in milling operations through detailed analysis and visualization of relevant data. By identifying key process parameters affecting machine performance, the project seeks to develop predictive maintenance strategies, reduce downtime, and improve overall efficiency. The insights gained will help in implementing proactive maintenance schedules, ultimately extending the lifespan of the machinery and optimizing production processes.
 
 **Dataset Variables**
-a) UID: Unique identifier for each record.
-b) Product ID: Product quality variant and serial number.
-c) Type: Product type (L, M, H).
-d) Air temperature [K]: Ambient air temperature in Kelvin.
-e) Process temperature [K]: Temperature during processing in Kelvin.
-f) Rotational speed [rpm]: Speed of rotation in revolutions per minute.
-g) Torque [Nm]: Applied torque in Newton-meters.
-h) Tool wear [min]: Duration of tool usage in minutes.
-i) Machine failure: Indicates if a machine failure occurred.
-j) TWF: Tool wear failure indicator.
-k) HDF: Heat dissipation failure indicator.
-l) PWF: Power failure indicator.
-m) OSF: Overstrain failure indicator.
-m) RNF: Random failure indicator.
+i) UID: Unique identifier for each record.
+ii) Product ID: Product quality variant and serial number.
+iii) Type: Product type (L, M, H).
+iv) Air temperature [K]: Ambient air temperature in Kelvin.
+v) Process temperature [K]: Temperature during processing in Kelvin.
+vi) Rotational speed [rpm]: Speed of rotation in revolutions per minute.
+vii) Torque [Nm]: Applied torque in Newton-meters.
+viii) Tool wear [min]: Duration of tool usage in minutes.
+ix) Machine failure: Indicates if a machine failure occurred.
+x) TWF: Tool wear failure indicator.
+xi) HDF: Heat dissipation failure indicator.
+xii) PWF: Power failure indicator.
+xiii) OSF: Overstrain failure indicator.
+xiv) RNF: Random failure indicator.
 
 **Visualizations**
 
